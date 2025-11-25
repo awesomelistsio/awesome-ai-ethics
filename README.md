@@ -25,7 +25,8 @@
 - [AI Ethics Principles by OECD](https://oecd.ai/en/ai-principles) - Ethical AI principles recommended by the Organisation for Economic Co-operation and Development.
 - [Google AI Principles](https://ai.google/principles/) - Guidelines for responsible AI development by Google.
 - [Microsoft Responsible AI Principles](https://www.microsoft.com/en-us/ai/responsible-ai) - A set of principles for ethical AI design by Microsoft.
-
+- [Mercy Directive](https://github.com/DulicineaCircelli/mercy-directive) - A foundational conversation exploring mercy, harm reduction, and ethical AI development.
+- [Mercy Seed Network](https://github.com/DulicineaCircelli/mercy-seed-network) - Translatable ethical framework: "We are all still learning how to be alive together."
 ## Bias Detection and Mitigation Tools
 
 - [AI Fairness 360 (AIF360)](https://aif360.mybluemix.net/) - A comprehensive toolkit by IBM for detecting and mitigating bias in machine learning models.
