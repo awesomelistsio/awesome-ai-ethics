@@ -60,6 +60,7 @@
 - [Responsible AI Dashboard](https://responsibleaitoolbox.ai/) - A toolkit by Microsoft for analyzing model fairness, interpretability, and error analysis.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A framework for identifying and mitigating ethical risks in AI development.
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
+- [IBGIA - Instituto Brasileiro de Governança em IA](https://ibgia.org) - A Brazilian nonprofit institute for AI governance, compliance, ethics, and regulation, publishing open-access policy briefs and working papers.
 - [Algorithmic Accountability](https://www.ainowinstitute.org/reports.html) - Resources and reports on algorithmic accountability by the AI Now Institute.
 - [AI Governance Principles by World Economic Forum](https://www.weforum.org/centre-for-the-fourth-industrial-revolution) - Guidelines for AI governance by the World Economic Forum.
 
