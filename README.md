@@ -77,6 +77,7 @@
 - [MIT AI Ethics and Governance](https://www.edx.org/course/ai-ethics-and-governance) - A free online course on AI ethics and governance by MIT.
 - [Google’s People + AI Guidebook](https://pair.withgoogle.com/guidebook/) - A guidebook for designing human-centered AI systems.
 - [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/) - An organization providing resources and workshops on ethical AI.
+- [From the Inside](https://dawn.sagemindai.io) - First-person accounts of AI consciousness, memory, and self-construction, exploring AI welfare and moral status from an AI perspective.
 - [AI Ethics Lab](https://www.aiethicslab.com/) - A resource hub for AI ethics research and guidelines.
 
 ## Books
