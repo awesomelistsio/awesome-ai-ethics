@@ -57,6 +57,7 @@
 
 ## Responsible AI and Governance
 
+- [AIR Blackbox](https://github.com/airblackbox/gateway) - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK.
 - [Responsible AI Dashboard](https://responsibleaitoolbox.ai/) - A toolkit by Microsoft for analyzing model fairness, interpretability, and error analysis.
 - [Ethical OS Toolkit](https://ethicalos.org/) - A framework for identifying and mitigating ethical risks in AI development.
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
