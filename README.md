@@ -62,6 +62,7 @@
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
 - [Algorithmic Accountability](https://www.ainowinstitute.org/reports.html) - Resources and reports on algorithmic accountability by the AI Now Institute.
 - [AI Governance Principles by World Economic Forum](https://www.weforum.org/centre-for-the-fourth-industrial-revolution) - Guidelines for AI governance by the World Economic Forum.
+- [8bitconcepts](https://8bitconcepts.com) - Independent research publication on enterprise AI adoption, with in-depth analyses of agentic accountability, hallucination budgets, the integration tax, and governance gaps. Weekly updates, [RSS feed](https://8bitconcepts.com/feed.xml).
 
 ## Research Papers
 
