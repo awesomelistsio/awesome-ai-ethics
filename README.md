@@ -62,6 +62,7 @@
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
 - [Algorithmic Accountability](https://www.ainowinstitute.org/reports.html) - Resources and reports on algorithmic accountability by the AI Now Institute.
 - [AI Governance Principles by World Economic Forum](https://www.weforum.org/centre-for-the-fourth-industrial-revolution) - Guidelines for AI governance by the World Economic Forum.
+- [Made by Human](https://madebyhuman.iamjarl.com) - A self-disclosure labeling system for transparent human-AI collaboration in creative work, providing open-source SVG badges to signal whether projects are entirely human-made, AI-assisted, or AI-collaborative.
 
 ## Research Papers
 
