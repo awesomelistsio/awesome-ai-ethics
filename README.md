@@ -78,6 +78,7 @@
 - [Google’s People + AI Guidebook](https://pair.withgoogle.com/guidebook/) - A guidebook for designing human-centered AI systems.
 - [FAT/ML (Fairness, Accountability, and Transparency in Machine Learning)](https://www.fatml.org/) - An organization providing resources and workshops on ethical AI.
 - [AI Ethics Lab](https://www.aiethicslab.com/) - A resource hub for AI ethics research and guidelines.
+- [Audaria](https://audaria.fr) — French-language editorial observatory tracking EU AI Act and ISO 42001 developments.
 
 ## Books
 
