@@ -62,6 +62,7 @@
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
 - [Algorithmic Accountability](https://www.ainowinstitute.org/reports.html) - Resources and reports on algorithmic accountability by the AI Now Institute.
 - [AI Governance Principles by World Economic Forum](https://www.weforum.org/centre-for-the-fourth-industrial-revolution) - Guidelines for AI governance by the World Economic Forum.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 micropayment verification for AI agents on Solana. Verifies counterparty identity and reputation before autonomous transactions, providing governance infrastructure for multi-agent AI systems. ([PyPI](https://pypi.org/project/twzrd-agent-intel/) | [MCP](https://intel.twzrd.xyz/mcp))
 
 ## Research Papers
 
