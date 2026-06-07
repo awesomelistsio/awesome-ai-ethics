@@ -62,6 +62,7 @@
 - [AI Incident Database](https://incidentdatabase.ai/) - A database documenting incidents of AI failures and harms.
 - [Algorithmic Accountability](https://www.ainowinstitute.org/reports.html) - Resources and reports on algorithmic accountability by the AI Now Institute.
 - [AI Governance Principles by World Economic Forum](https://www.weforum.org/centre-for-the-fourth-industrial-revolution) - Guidelines for AI governance by the World Economic Forum.
+- [Signato AI Act Readiness Quiz](https://signato.ai/quiz) - Free 2-minute self-assessment of EU AI Act exposure for HR and compliance teams.
 
 ## Research Papers
 
