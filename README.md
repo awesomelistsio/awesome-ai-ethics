@@ -38,6 +38,7 @@
 - [What-If Tool](https://pair-code.github.io/what-if-tool/) - An interactive tool by Google’s PAIR team for investigating machine learning models and their fairness.
 - [FAT Forensics](https://fat-forensics.org/) - A toolkit for assessing fairness, accountability, and transparency in AI systems.
 - [Themis-ML](https://github.com/cosmicBboy/themis-ml) - A library for testing discrimination in machine learning models.
+- [Fair Code](https://github.com/yakew7/Fair-Code) - An open-source project that audits AI systems for algorithmic bias across domains such as criminal justice, hiring, and lending, comparing biased baseline models against mitigated versions with measured fairness metrics.
 
 ## Explainable AI (XAI)
 
